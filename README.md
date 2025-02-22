@@ -8,7 +8,9 @@
    - Download the dataset as CSV formate from Kaggle
    - Change the file location in pd.read_csv() function
    - Execute all cells one by one top to bottom of hit run all from runtime in google colab
-  
-3. **Salary expectation per month**
+
+3. **Contact information**
+   - Email: rahmm224@wfu.edu
+4. **Salary expectation per month**
    - $4000
 ---
